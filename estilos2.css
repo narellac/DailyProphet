@@ -2,3 +2,124 @@
   margin: 0;
   padding: 0;
 }
+body{
+margin-left: 150px;
+margin-right: 100px;
+}
+h1{
+text-align: center;
+font-family: "Bel MT";
+font-size: 45px;
+font-weight: bold;
+color: #104e8b;
+border-bottom: 1px solid #eee8cd;
+padding-top: 10px;
+padding-bottom: 15px;
+margin: 20px 0;
+}
+#capital{
+font-family: calibri;
+color: #1c86ee;
+}
+h2{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 45px;
+color: #303030;
+margin-top: 50px;
+margin-bottom: 20px;
+}
+#first{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 17px;
+margin-bottom: 20px;
+color: #333333;
+}
+time{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 17px;
+color: #707070;
+}
+#second{
+padding-bottom: 20px;
+}
+img{
+border-style: solid;
+border-color: #e5e5e5;
+}
+#third{
+border-bottom: 1px solid #eee8cd;
+margin-top: 10px;
+margin-bottom: 10px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 17px;
+}
+#four{
+color: #707070;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+#five{
+margin-left: 150px;
+margin-right: 400px;
+}
+.parag{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+color: #333333;
+margin-top: 30px;
+}
+#six{
+margin-left: 150px;
+margin-right: 400px;
+margin-top: 20px;
+}
+#six p{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+font-weight: bold;
+color: #303030;
+margin-bottom: 10px;
+}
+#six nav ul li{
+list-style-type: none;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+font-weight: bold;
+color: #1c86ee;
+display: inline-block;
+border: 1px solid #1c86ee;
+border-radius: 5px;
+padding: 10px;
+margin-right: 10px;
+}
+#seven aside{
+position: absolute;
+width: 400px;
+top: 1050px;
+left: 1100px;
+}
+#seven aside p{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+font-weight: bold;
+color: #303030;
+}
+.img{
+width: 300px;
+height: 200px;
+}
+#seven li{
+margin-top: 40px;
+}
+.textlist{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 5px;
+font-weight: bold;
+color: #000000;
+margin-right: 100px;
+}
+footer{
+text-align: center;
+margin-top: 100px;
+margin-bottom: 20px;
+}
