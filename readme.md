@@ -1,10 +1,20 @@
-"Daily Prophet"
+# Daily Prophet
+News from newspapers
 
-This project is based on the weekly objective 06 of the QA Assurance course, where it was required to take a current news item and imitate it in an html format respecting the semantics.
-A news story rich in resource was chosen, such as, for example, one that had a title, subtitle, images, links, footer, among others.
+Version 1.0.0
 
-To see the chosen news, go to the following link: https://www.lacapital.com.ar/economia/santa-fe-cerro-el-2020-un-superavit-financiero-18-mil-millones-n2646522.html
+In this repository you will be able to see two versions of two different news pages, trying to incorporate in each one of them elements that differentiate them
 
-A fictitious name was chosen for the newspaper, thus also calling its repository on GitHub, which can be found at the following link: https://github.com/narellac/DailyProphet
+This work meets the weekly objectives numbers 6 and 7 set for the QA Assurance course taught by Radium Rocket
 
-The creator of this file is Narella Calvente.
+---
+
+## Contributors
+
+This work was prepared in its entirety by Narella Calvente [narellacalvente@gmail.com]
+
+---
+
+# Steps
+
+This content does not require any type of installation to view it
