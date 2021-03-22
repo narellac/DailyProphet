@@ -119,7 +119,34 @@ color: #000000;
 margin-right: 100px;
 }
 footer{
-text-align: center;
-margin-top: 100px;
+margin-top: 170px;
+margin-bottom: 40px;
+border-top: 1px solid #eee8cd;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+color: #707070;
+}
+.listtwo{
+list-style-type: none;
+display: inline;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+color: #1c86ee;
+margin-right: 20px;
+}
+footer ul{
+margin-top: 20px;
 margin-bottom: 20px;
+}
+.rightfooter{
+text-align: right;
+}
+#eight{
+margin-top: -55px;
+}
+#eight span{
+  color: #1c86ee;
+}
+#nine{
+padding-top: 20px;
 }
